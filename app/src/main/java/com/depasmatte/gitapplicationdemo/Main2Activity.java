@@ -1,5 +1,6 @@
 package com.depasmatte.gitapplicationdemo;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -24,6 +25,9 @@ public class Main2Activity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+
+        startActivity(new Intent(this, ActivityPerNuovoBrunch.class));
     }
 
 }
