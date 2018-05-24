@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         startActivity(new Intent(this, NewBrunchTest.class));
 
-        //dfasfsdafasdfasd cippa stocazzo2 olè
+        //dfasfsdafasdfasd cippa stocazzo2 olèsdf
 
     }
 }
