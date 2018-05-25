@@ -9,6 +9,8 @@ public class ClasseProva {
         Toast.makeText(context,  "Sono il metodo ciao", Toast.LENGTH_SHORT).show();
         String a = "ciao";
 
+        a += "x";
+
     }
 
 }
