@@ -10,6 +10,7 @@ public class ClasseProva {
         String a = "ciao";
 
         a += "x";
+        a += "x";
 
     }
 
