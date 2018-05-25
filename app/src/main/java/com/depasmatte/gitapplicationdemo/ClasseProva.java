@@ -11,6 +11,9 @@ public class ClasseProva {
 
         a += "x";
         a += "x";
+        a += "x";
+        a += "x";
+        a += "x";
 
     }
 
